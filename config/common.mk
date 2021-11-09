@@ -89,7 +89,9 @@ PRODUCT_PACKAGES += \
     Recorder \
     ExactCalculator \
     Etar \
-    DevicePersonalizationPrebuiltPixel2020
+    DevicePersonalizationPrebuiltPixel2020 \
+    TouchGestures
+
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \
