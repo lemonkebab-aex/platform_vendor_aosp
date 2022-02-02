@@ -78,8 +78,8 @@ PRODUCT_PACKAGES += \
     librs_jni \
     Stk \
     AEXPapers \
-    DuckDuckGo \
-    MusicPlayerGO \
+#    DuckDuckGo \
+#    MusicPlayerGO \
     Recorder \
     ExactCalculator \
     Etar \
